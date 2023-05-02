@@ -1,0 +1,139 @@
+.t-Header-logo {
+  background:  url(#APP_FILES#icons/RDS_logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-indent: 100%;
+}
+
+.t-Body-side {
+  width: 400px !important;
+  background-color: #dbc8ac;
+}
+.t-AVPList-label, .t-AVPList-value{
+  padding: 13px;
+  font-size: 17px;
+}
+
+.t-Body-contentInner, .t-Header-branding, .t-Footer{
+  background-color: #dbc8ac;
+}
+
+.t-Body-mainContent{
+  background-color: #dbc8ac;
+}
+
+.a-CardView-mainContent{
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  justify-content: space-between;
+}
+.textContainer{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  color: white;
+  justify-content: space-between;
+  font-weight: 600;
+}
+
+.div-row{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.div-row h2{
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.fine{
+  display: flex;
+  flex-direction: column;
+  color: #eddbc0;
+  background: #DD5353;
+  border: 2px solid #E6CE98;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-top: 10px;
+}
+
+.a-CardView-mediaImg{
+  margin-top: 17px;
+
+}
+
+.a-CardView, .t-Region-header, #B2882242546886996721{
+  background-color: #B73E3E;
+  color: white;
+  border: none;
+  box-shadow: none;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+#report_2882241302349996709_catch .t-AVPList .t-AVPList-label, #report_2882241302349996709_catch .t-AVPList .t-AVPList-value{
+  padding: 15px;
+}
+
+.t-Footer {
+  background-color: #dbc8ac;
+}
+
+.t-Header-branding{
+  background-color: #EDDBC0;
+}
+
+.t-Region-body{
+  margin: 0 auto;
+  padding: 0;
+}
+
+#P19_WARNING_DISPLAY {
+  background-color: #dd5353;
+  padding: 5px;
+  color: #eddbc0;
+  font-weight: 600;
+  /* background: #DD5353; */
+  border: 2px solid #E6CE98;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.t-Region-buttons-right{
+  padding: 0;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+.t-Header-branding{
+  background-color: #EDDBC0;
+}
+
+
+.line-decoration {
+  position: absolute;
+  width: 80px;
+  height: 0px;
+  left: 160px;
+  top: 425px;
+  border: 1px solid #FFFFFF;
+  transform: rotate(90deg);
+}
+
+.a-TreeView-row.is-selected {
+  background: #B73E3E;
+}
+
+.row {
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.t-Region {
+  height: 100%;
+  border: none;
+}
+
+.row:hover {
+ box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
