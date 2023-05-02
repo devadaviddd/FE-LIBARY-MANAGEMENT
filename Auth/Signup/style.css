@@ -1,0 +1,62 @@
+.t-Login-bg .t-Login-bgImg {
+  background: url(#APP_FILES#signup.png);
+  background-size: 100% Auto;
+  background-repeat: no-repeat;
+}
+
+#APP_TITLE_SIGNUP_DISPLAY {
+  border: none;
+}
+#APP_TITLE_SIGNUP_LABEL {
+  color: #ffffff;
+  font-size: 100px !important;
+  font-family: "Barlow";
+  word-break: break-all;
+  line-height: unset;
+  height: 700px;
+  display: flex;
+  align-items: center;
+  text-align: left;
+  font-style: normal;
+  font-weight: 700;
+  width: 100%;
+  white-space: normal !important;
+}
+
+.col-7 > .rel-col .col-5 {
+  flex-basis: 71.4285714286%;
+  max-width: 71.4285714286%;
+}
+
+.t-Login-title {
+  display: none;
+}
+
+.t-Login-region {
+  background-color: #eddbc0;
+}
+
+.t-Login-logo {
+  width: 205px;
+  height: 151px;
+  mix-blend-mode: multiply;
+}
+
+#B73066220831360527222 {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  color: #5096ff;
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+#B69838041551847820436 {
+  background: #b73e3e;
+}
+
+#APP_TITLE_SIGNUP_LABEL {
+  word-break: unset;
+}

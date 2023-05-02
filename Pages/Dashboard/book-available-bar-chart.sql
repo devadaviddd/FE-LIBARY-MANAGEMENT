@@ -1,0 +1,4 @@
+select TITLE, NUM_STOCK
+from (SELECT DISTINCT TITLE, NUM_STOCK FROM STOCK_ENTITY)
+where NUM_STOCK > 0
+order by 2 desc;

@@ -1,0 +1,64 @@
+.t-Login-bg .t-Login-bgImg {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(#APP_FILES#login.jpg);
+  background-size: 100% Auto;
+  background-repeat: no-repeat;
+}
+
+#APP_TITLE_DISPLAY {
+  border: none;
+}
+
+.t-Form-label {
+  color: #ffffff;
+  font-size: 100px !important;
+  font-family: "Barlow";
+  word-break: break-all;
+  line-height: unset;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  text-align: left;
+  font-style: normal;
+  font-weight: 700;
+  width: 100%;
+  white-space: normal !important;
+}
+
+.col-7 > .rel-col .col-5 {
+  flex-basis: 71.4285714286%;
+  max-width: 71.4285714286%;
+}
+
+.t-Login-title {
+  display: none;
+}
+
+.t-Login-region {
+  background-color: #eddbc0;
+}
+
+.t-Login-logo {
+  width: 205px;
+  height: 151px;
+  mix-blend-mode: multiply;
+}
+
+#B69838040614882820427 {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  color: #5096ff;
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+#B73191285265891752781 {
+  background: #b73e3e;
+}
+
+#APP_TITLE_LABEL {
+  word-break: unset;
+}

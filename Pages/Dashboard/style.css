@@ -1,0 +1,55 @@
+.t-Header-branding {
+  background-color: #eddbc0;
+}
+
+.t-Body-mainContent {
+  background-color: #dbc8ac;
+}
+
+.t-Header-logo {
+  background: url(#APP_FILES#icons/RDS_logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-indent: 100%;
+}
+
+.a-TreeView-row.is-selected {
+  background: #b73e3e;
+}
+
+.a-CardView {
+  border-radius: 4px;
+  background-color: inherit;
+  border: none;
+}
+
+.a-CardView-body {
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)),
+    url(#APP_FILES#background-chart.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 11px;
+  border: none;
+}
+
+.a-CardView-mainContent {
+  color: white;
+}
+
+.a-CardView-subContent {
+  font-size: x-large;
+  color: white;
+}
+
+.t-Footer {
+  background-color: #eddbc0;
+  border: var(--ut-header-border-width, 1px) solid var(--ut-header-border-color);
+}
+.t-Footer-version {
+  color: #b73e3e;
+}
+
+.t-Footer-topButton {
+  color: #fff;
+  background-color: #b73e3e;
+}
