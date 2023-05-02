@@ -1,0 +1,67 @@
+.t-HeroRegion-title{
+  color: white;
+}
+
+.a-CardView-media--body {
+  height: 300px;
+}
+
+.t-HeroRegion{
+  background-color: #B73E3E;
+}
+
+.t-Body-mainContent{
+  background-color: #DBC8AC;
+}
+
+.t-Header-branding, .t-Body-side{
+  background-color: #EDDBC0;
+}
+
+.t-Footer{
+  background-color: #c3a67b;
+}
+
+.a-CardView-actionsPrimary{
+  margin: 0 auto;
+  background-color: #e85c3d;
+}
+
+.a-CardView-actions{
+  background-color: #EFE6DA;
+}
+
+.a-CardView{
+  background-color: #EFE6DA;
+}
+
+.a-CardView-button {
+  color: white;
+}
+
+.a-CardView-media{
+  justify-content: center;
+}
+
+.t-Header-logo {
+  background:  url(#APP_FILES#icons/RDS_logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-indent: 100%;
+}
+
+.a-CardView:hover {
+ box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.a-TreeView-row.is-selected {
+  background: #B73E3E;
+}
+
+#P_ROLE_DISPLAY{
+  padding: 7px;
+  font-weight: 600;
+  background-color: #c51717;
+  color: #ffff23;
+  border: none;
+}

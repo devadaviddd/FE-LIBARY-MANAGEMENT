@@ -1,3 +1,35 @@
+.ui-dialog-titlebar {
+  border-top-left-radius: none;
+  border-top-right-radius: none;
+  background-color: #b73e3e !important;
+}
+
+.ui-dialog-titlebar {
+  background-color: #dd5353 !important;
+}
+
+.ui-dialog-title {
+  color: #fff !important;
+}
+
+.ui-dialog-titlebar-close .ui-icon-closethick:before {
+  color: #fff;
+}
+
+.t-ButtonRegion-wrap {
+  background-color: #b73e3e;
+}
+
+#B73191362709895754406 {
+  background-color: #dbc8ac;
+  color: #b73e3e;
+}
+
+#B73191361357517754405 {
+  background: black;
+  color: #fff;
+}
+
 .t-Header-branding {
   background-color: #eddbc0;
 }
@@ -75,41 +107,9 @@ nav {
 
 img {
   height: 200px;
+  width: 200px;
 }
 
-#B73191318165644753227 {
+#B73191367414821754409 {
   background-color: #b73e3e;
-}
-
-
-.ui-dialog-titlebar {
-  border-top-left-radius: none;
-  border-top-right-radius: none;
-  background-color: #B73E3E !important;
-}
-
-.ui-dialog-titlebar {
-  background-color: #DD5353 !important;
-}
-
-.ui-dialog-title {
-  color: #fff !important;
-}
-
-.ui-dialog-titlebar-close .ui-icon-closethick:before {
-  color: #fff;
-}
-
-.t-ButtonRegion-wrap {
-  background-color: #B73E3E;
-}
-
-#B73191312970251753223 {
-  background-color: #DBC8AC;
-  color: #B73E3E;
-}
-
-#B73191311565092753222 {
-  background: black;
-  color: #fff;
 }
